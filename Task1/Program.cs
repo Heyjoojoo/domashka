@@ -4,13 +4,13 @@ int n2 = Convert.ToInt32(Console.ReadLine ());
 
 if (n > n2)
 {
-    Console.WriteLine(n + " максимальное число");
+    Console.WriteLine(n + " больше, чем " + n2);
 }
 if (n < n2)
 {
-    Console.WriteLine(n2 + " максимальное число");
+    Console.WriteLine(n2 + " больше, чем " + n);
 }
 if (n == n2)
 {
-    Console.WriteLine("Числа равны, максимального нет");
+    Console.WriteLine("Числа равны");
 }

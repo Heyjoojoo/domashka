@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tiffu\\OneDrive\\Рабочий стол\\ученьесвет\\домашки\\Task 1\\Task 1.csproj",
+      "projectUniqueName": "C:\\Users\\Tiffu\\OneDrive\\Рабочий стол\\ученьесвет\\домашки\\Task1\\Task 1.csproj",
       "projectName": "Task 1",
-      "projectPath": "C:\\Users\\Tiffu\\OneDrive\\Рабочий стол\\ученьесвет\\домашки\\Task 1\\Task 1.csproj",
+      "projectPath": "C:\\Users\\Tiffu\\OneDrive\\Рабочий стол\\ученьесвет\\домашки\\Task1\\Task 1.csproj",
       "packagesPath": "C:\\Users\\Tiffu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tiffu\\OneDrive\\Рабочий стол\\ученьесвет\\домашки\\Task 1\\obj\\",
+      "outputPath": "C:\\Users\\Tiffu\\OneDrive\\Рабочий стол\\ученьесвет\\домашки\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tiffu\\AppData\\Roaming\\NuGet\\NuGet.Config"
