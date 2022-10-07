@@ -12,9 +12,8 @@ else
     {
         m = n % 10;
         n = n / 10;
-    
     }
-    m = m % 10;
+    
     Console.WriteLine(m);
 }
 
